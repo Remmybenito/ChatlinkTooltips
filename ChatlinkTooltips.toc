@@ -1,0 +1,7 @@
+## Interface: 30400
+## Title: Chatlink Tooltips
+## Notes: Nothing to be done.
+## Author: meeee
+## Version: 0.1
+
+ChatlinkTooltips.lua
